@@ -1,1 +1,18 @@
-{}
+{
+    "testik": {
+        "projectName": "testik",
+        "description": "wtf?",
+        "type": "community",
+        "author": "zdenbe",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/zdenbe/blablablue",
+        "githubUri": "https://github.com/zdenbe/blablablue",
+        "license": "apache-2.0",
+        "lastUpdated": "1741597608032",
+        "tags": [
+            "blablablue"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
