@@ -14,5 +14,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "blablax": {
+        "projectName": "blablax",
+        "description": "test",
+        "type": "community",
+        "author": "zdenbe",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/zdenbe/blablablue",
+        "githubUri": "https://github.com/zdenbe/blablablue",
+        "license": "apache-2.0",
+        "lastUpdated": "1744190983269",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
